@@ -21,7 +21,7 @@ class LoginPage extends BasePage {
     }
 
     open () {
-        return super.open("TEST")
+        return super.open("")
     }
 }
 

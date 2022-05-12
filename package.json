@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@wdio/cli": "^7.19.6"
+    "@wdio/cli": "^7.19.6",
+    "allure-commandline": "^2.17.2"
   },
   "devDependencies": {
     "@wdio/allure-reporter": "^7.19.7",
